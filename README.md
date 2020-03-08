@@ -1,18 +1,18 @@
 # My-function
 
-forward.selection:
-  Description:
-  Perform forward selection of linear regression based on F value.
+## forward.selection:
+  - Description:<br/>
+  	Perform forward selection of linear regression based on F value.
   
-  Arguments:
-  res.v, exp.v, test.p, p.adj
+  - Arguments:<br/>
+  	res.v, exp.v, test.p, p.adj
   
-  Details:
-  res.v - Response variable.
-  exp.v - Explanatory variables.
-  test.p - The significant P value threshold (not adj. P).
-  p.adj - The method for adjusting P values. Perform by p.adjust() function.
+  - Details:<br/>
+  	res.v - Response variable.<br/>
+  	exp.v - Explanatory variables.<br/>
+  	test.p - The significant P value threshold (not adj. P).<br/>
+  	p.adj - The method for adjusting P values. Perform by p.adjust() function.
 
 
-Function coded by Po-Yu Lin
+Function coded by Po-Yu Lin<br/>
 Contact me: flutter925517@gmail.com
