@@ -43,5 +43,5 @@ mb
 ```
 
 
-Function coded by Po-Yu Lin<br/>
+Coded by Po-Yu Lin<br/>
 Contact me: flutter925517@gmail.com
