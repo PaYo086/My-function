@@ -27,7 +27,7 @@
 ```R
 # install.packages("caret")
 library(caret)
-mb <- microbenchmark::microbenchmark (
+mb <- microbenchmark::microbenchmark(
   {
     LOOCV(trees$Girth, trees$Height)
   },
